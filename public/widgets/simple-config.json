@@ -1,0 +1,38 @@
+{
+  "type": "div",
+  "props": {
+    "className": "container",
+    "style": {
+      "padding": "20px",
+      "fontFamily": "Arial, sans-serif",
+      "maxWidth": "600px",
+      "margin": "0 auto"
+    },
+    "children": [
+      {
+        "type": "h1",
+        "props": {
+          "children": "Hello from Virtual DOM!"
+        }
+      },
+      {
+        "type": "p",
+        "props": {
+          "style": {
+            "fontSize": "18px",
+            "color": "#333"
+          },
+          "children": "This is dynamically rendered from JSON config."
+        }
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
