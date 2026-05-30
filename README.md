@@ -21,6 +21,8 @@ pnpm dev
 bun dev
 ```
 
+test commit on this readme
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Virtual DOM in Web components
